@@ -9147,7 +9147,7 @@ module.exports={
         "spec": "0.0.5",
         "type": "version"
       },
-      "/Users/tim/Documents/workspace/Consensys/truffle-contract"
+      "/Solidity/solidity_pet_shop"
     ]
   ],
   "_from": "truffle-contract-schema@0.0.5",
@@ -9160,8 +9160,8 @@ module.exports={
     "tmp": "tmp/truffle-contract-schema-0.0.5.tgz_1485557985137_0.46875762194395065"
   },
   "_npmUser": {
-    "name": "tcoulter",
-    "email": "tim@timothyjcoulter.com"
+    "name": "Artur Chemov",
+    "email": "remboartur621@gmail.com"
   },
   "_npmVersion": "3.10.8",
   "_phantomChildren": {},
@@ -9181,13 +9181,13 @@ module.exports={
   "_shasum": "5e9d20bd0bf2a27fe94310748249d484eee49961",
   "_shrinkwrap": null,
   "_spec": "truffle-contract-schema@0.0.5",
-  "_where": "/Users/tim/Documents/workspace/Consensys/truffle-contract",
+  "_where": "/Solidity/solidity_pet_shop",
   "author": {
-    "name": "Tim Coulter",
-    "email": "tim.coulter@consensys.net"
+    "name": "Artur Chemov",
+    "email": "remboartur621@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/trufflesuite/truffle-schema/issues"
+    "url": "https://github.com/ArthurChemov/solidity_pet_shop/issues"
   },
   "dependencies": {
     "crypto-js": "^3.1.9-1"
@@ -9202,7 +9202,7 @@ module.exports={
     "tarball": "https://registry.npmjs.org/truffle-contract-schema/-/truffle-contract-schema-0.0.5.tgz"
   },
   "gitHead": "cfa4313bd4bb95bf5b94f85185203ead418f9ee6",
-  "homepage": "https://github.com/trufflesuite/truffle-schema#readme",
+  "homepage": "https://github.com/ArthurChemov/solidity_pet_shop#readme",
   "keywords": [
     "ethereum",
     "json",
@@ -9214,8 +9214,8 @@ module.exports={
   "main": "index.js",
   "maintainers": [
     {
-      "name": "tcoulter",
-      "email": "tim@timothyjcoulter.com"
+      "name": "Artur Chemov",
+      "email": "remboartur621@gmail.com"
     }
   ],
   "name": "truffle-contract-schema",
@@ -9223,7 +9223,7 @@ module.exports={
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trufflesuite/truffle-schema.git"
+    "url": "git+https://github.com/ArthurChemov/solidity_pet_shop.git"
   },
   "scripts": {
     "test": "mocha"
